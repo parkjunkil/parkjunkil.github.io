@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+.navbar-brand {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.cv-intro {
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+body, h3, h4, h5, h6, p, li, .subtitle, a {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  color: #1f2937;
+  line-height: 1.7;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 2rem;
+  font-weight: 750;
+  color: #111827;
+  margin-bottom: 0.2rem;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 0.8rem;
+  color: #111827;
+}
+
+.subtitle {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #6b7280;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+p, li {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.hero-section {
+  text-align: center;
+}
+
+
+
+.hero-name {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.hero-tagline {
+  margin: 0.5rem auto 3rem auto;
+  max-width: 600px;
+}
+
+.profile-image {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 0.8rem 0;
+}
+
+.profile-image img {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  object-position: center 40%;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  padding: 3px;
+  background-color: #f9fafb;
+}
+
+.experience-card {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 1.0rem;
+  padding: 1.3rem 1.4rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  background-color: #fafafa;
+}
+.experience-logo {
+  flex: 0 0 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.experience-logo img {
+  max-width: 75px;
+  max-height: 75px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.experience-content {
+  flex: 1;
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.0rem;
+}
+
+.experience-title {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.experience-period {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  color: #6b7280;
+}
+
+.experience-role {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 0.2rem;
+}
+
+.experience-location {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  color: #6b7280;
+  margin-bottom: 0.0rem;
+}
+
+.experience-advisor {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.97rem;
+  color: #272729;
+  margin-bottom: 0.55rem;
+}
+
+
+.experience-topics {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.97rem;
+  color: #374151;
+  margin-bottom: 0.8rem;
+}
+
+.experience-projects-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.97rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.3rem;
+}
+
+.experience-projects {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.experience-projects li {
+  margin-bottom: 0.3rem;
+}
+
+.research-intro {
+  margin-top: 1.2rem;
+  margin-bottom: 3.6rem;
+}
+
+
+.research-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.research-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.research-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.2rem 1.2rem 0.1rem 1.2rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  background-color: #fafafa;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+}
+
+.research-card-title {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.35;
+  margin: 0 0 0.8rem 0;
+}
+
+.research-card-image-wrap {
+  margin: 0 0 0.9rem 0;
+}
+
+.research-card-image {
+  margin-bottom: 0.0rem;
+  text-align: center;
+}
+
+
+.research-card-image img {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 14px;
+  border: 1px solid #ececec;
+}
+
+.research-card-text {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.96rem;
+  line-height: 1.65;
+  color: #374151;
+  margin: 0 0 0.9rem 0;
+}
+
+.research-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0;
+}
+
+.research-topic-card {
+  display: inline-block;
+  padding: 0.32rem 0.72rem;
+  border-radius: 999px;
+  background-color: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #374151;
+  line-height: 1.3;
+}
+
+.links-section {
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.links-section ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.links-section li {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #374151;
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.links-section a {
+  font-family: 'Inter', sans-serif;
+  color: #1f2937;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.links-section a:hover {
+  color: #111827;
+  border-bottom-color: #111827;
+}

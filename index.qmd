@@ -1,0 +1,85 @@
+<div class="hero-section">
+<div class="profile-image">
+<img src="assets/Junkil_Park_photo.jpg" alt="Junkil Park">
+</div>
+  
+<h1 class="hero-name">Junkil Park</h1>
+
+<div class="hero-tagline">
+I work on AI for materials discovery, and inverse design.
+</div>
+</div>
+
+## Research Interests
+
+- Artificial Intelligence for Materials Discovery
+- Materials Inverse Design using Generative Models
+- Molecular Simulation and Computational Chemistry
+
+<h2>Experience</h2>
+
+<div class="experience-card">
+<div class="experience-logo">
+<img src="assets/imperial.png" alt="Imperial College London">
+</div>
+
+<div class="experience-content">
+<div class="experience-header">
+<div class="experience-title">Imperial College London</div>
+<div class="experience-period">Present</div>
+</div>
+
+<div class="experience-role">Research Associate (2026.05 – )</div>
+<div class="experience-location">Advisor: Prof. Aron Walsh</div>
+<div class="experience-location">London, United Kingdom</div>
+</div>
+</div>
+
+
+<div class="experience-card">
+<div class="experience-logo">
+<img src="assets/snu.png" alt="Seoul National University">
+</div>
+
+<div class="experience-content">
+<div class="experience-header">
+<div class="experience-title">Seoul National University</div>
+<div class="experience-period">2024–2026</div>
+</div>
+
+<div class="experience-role">Postdoctoral Researcher (2024.09 – 2026.04)</div>
+<div class="experience-location">Advisor: Prof. Yousung Jung</div>
+<div class="experience-location">Seoul, South Korea</div>
+</div>
+</div>
+
+
+<div class="experience-card">
+<div class="experience-logo">
+<img src="assets/kaist.png" alt="Korea Advanced Institute of Science and Technology">
+</div>
+
+<div class="experience-content">
+<div class="experience-header">
+<div class="experience-title">Korea Advanced Institute of Science and Technology</div>
+<div class="experience-period">2021–2024</div>
+</div>
+
+<div class="experience-role">PhD (2021.03 – 2024.09)</div>
+<div class="experience-location">Advisor: Prof. Jihan Kim</div>
+<div class="experience-location">Daejeon, South Korea</div>
+</div>
+</div>
+
+
+
+## Links
+
+<div class="links-section">
+
+- Email: [junkil0617@gmail.com](mailto:junkil0617@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=rVGLAYIAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/junkil-park-108b952b5)
+- [GitHub](https://github.com/parkjunkil)
+
+</div>

@@ -1,0 +1,16 @@
+# Projects
+
+## ChargeDIFF
+A generative model for inorganic materials that explicitly incorporates electronic structure information during generation.
+
+## MOFFUSION
+A multi-modal generative model for the design of metal-organic frameworks using signed distance functions.
+
+## ZeoDIFF
+A diffusion-model-based framework for zeolite generation.
+
+## Amorphous PPN Database
+A large-scale database of amorphous porous polymer network materials based on molecular dynamics simulations.
+
+## Genetic Algorithm for MOFs
+A computational platform for designing MOFs with high hydrogen working capacity.

@@ -1,0 +1,53 @@
+## Research
+<div class="research-intro">
+My research focuses on AI-driven materials discovery, with a particular emphasis on inverse design using generative models. I am also interested in MLIPs, agentic AI, and computational simulations including DFT and MD.
+</div>
+
+## Current Featured Projects
+
+<div class="research-card-grid">
+
+<a class="research-card-link" href="https://arxiv.org/abs/2511.14228" target="_blank">
+<div class="research-card">
+<div class="research-card-title">ChargeDIFF (arxiv, 2025)</div>
+<div class="research-card-image">
+<img src="assets/chargediff.png" alt="ChargeDIFF">
+</div>
+<div class="research-topics">
+<span class="research-topic-card">Inverse Design</span>
+<span class="research-topic-card">Diffusion Models</span>
+<span class="research-topic-card">Generative AI</span>
+</div>
+</div>
+</div>
+</a>
+
+<a class="research-card-link" href="https://www.nature.com/articles/s41467-024-55390-9" target="_blank">
+<div class="research-card">
+<div class="research-card-title">MOFFUSION (Nature Communications, 2025)</div>
+<div class="research-card-image">
+<img src="assets/moffusion.png" alt="MOFFUSION">
+</div>
+<div class="research-topics">
+<span class="research-topic-card">Inverse Design</span>
+<span class="research-topic-card">Diffusion Models</span>
+<span class="research-topic-card">Generative AI</span>
+</div>
+</div>
+</a>
+
+<a class="research-card-link" href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aenm.202300442" target="_blank">
+<div class="research-card">
+<div class="research-card-title">F-COF for K+ Ion Battery (Advanced Energy Materials, 2023)</div>
+<div class="research-card-image">
+<img src="assets/fcof.png" alt="F-COF">
+</div>
+<div class="research-topics">
+<span class="research-topic-card">Density Functional Theory</span>
+<span class="research-topic-card">Electronic Structure</span>
+</div>
+</div>
+</a>
+
+
+</div>

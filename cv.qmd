@@ -1,0 +1,6 @@
+# CV
+<div class="cv-intro">
+You can download my full CV below. Thanks!
+</div>
+
+[Download CV (Last revised: 2026.4)](assets/CV_Junkil_Park_2026_4.pdf)

@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "full_publications.html",
+    "href": "full_publications.html",
+    "title": "Full Publications",
+    "section": "",
+    "text": "Full Publications\nFirst/Co-First author marked as *\n15. Choi, J., Kim, S., Park, J., Choi, J., An, S., and Jung, Y. Next-Generation AI for Accelerated Materials Discovery. (submitted)\n14. Kim, S., Choi, J., Jang, K., Park, J., Bernales, V., Aspuru-Guzik, A., and Jung, Y. Materealize: a multi-agent deliberation system for end-to-end material design and synthesis. (submitted)\n13. Park, J.*, Choi, J., and Jung, Y. Learning electrons to generate materials. (submitted)\n12. Park, J.*, Lee, Y., and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. Nature Communications 2025 16:34\n11. Park, J.*, Lee, W., and Kim, J. Large-Scale Construction and Analysis of Amorphous Porous Polymer Network Materials. ACS App. Mater. Interfaces 2024, 16, 57190-57199\n10. Park, J.*, Kim, H., Kang, Y., Lim, Y., and Kim, J. From Data to Discovery: Recent Trends of Machine Learning in Metal-Organic Frameworks. JACS Au 2024, 4, 3727-3743\n9. Hyun, T., Park, J.*, So, J., Kim, J., and Koh, D, Unexpected molecular sieving of xylene isomers in polymer-metal-organic frameworks (PolyMOF) materials. Advanced Science 2024, 11, 2402980\n8. Park, J.*, Gill,APS., Moosavi,SM., and Kim. J, Inverse design of porous materials: a diffusion model approach. Journal of Materials Chemistry A 2024, 12, 6507-6514\n7. Ko,Y., Park, J., Zhang, X., Kang, L., Pham T., Boureau V., Pham-Huu, C., Kim, J., Zhong, L., and Zuttel. All platinum group metal-free catalyts using in liquid fuel operated direct borohydride fuel cells. ACS Appl. Energy Mater 2024, 7, 2, 639-648\n6. Lee, J., Lim,H., Park, J.*, Kim, M., Jung, J., Kim, J., and Kim, I. Flouring-Rich Oragnic Framework to Boost Electrochemicl Kinetics and Storages of K+ Ions for Potassium-Ion Battery. Advanced Energy Materials, 2023,13, 2300442\n5. Park, J. *, Lim, Y., Lee, S., and Kim, J. Computational Design of Metal-Organic Frameworks with Unprecedented High Hydrogen Working Capacity and High Synthesizability. Chemistry of Materials 2023, 35, 1, 9-16\n4. Dodson, RA., Park, J., Kim, J., Cliffe, MJ., and Cohen, SM. Tehthering Effects in Oligomer-Based Metal-Organic Frameworks. Inorganic Chemistry 2022, 61, 31, 12284-12292\n3. Lim, Y., Park, J., Lee, S., and Kim, J. Finely tuned inverse design of metal-organic frameworks with user-desired Xe/Kr selectivity. Journal of Materials Chemistry A 2021, 9, 21175-21183\n2. Sarango-Ramirez, MK., Park, J., Kim, J., Yoshida, Y., Lim, DW., and Kitagawa, H. Void Space versus Surface Functionalization for Proton Conduction in Metal-Organic Frameworks. Angew. Chem. Int. Ed. 2021, 60, 20173-20177\n1. Park, J.*, Suh, BL., and Kim, J. Computational design of a photoresponsive metal-organic framework for post combustion carbon capture. J. Phys. Chem. C 2020, 124, 24, 13162-13167"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Junkil Park",
+    "section": "",
+    "text": "My research focuses on AI-driven materials discovery, with a particular emphasis on inverse design using generative models. I am also interested in MLIPs, agentic AI, and computational simulations including DFT and MD."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Junkil Park",
+    "section": "",
+    "text": "My research focuses on AI-driven materials discovery, with a particular emphasis on inverse design using generative models. I am also interested in MLIPs, agentic AI, and computational simulations including DFT and MD."
+  },
+  {
+    "objectID": "research.html#current-featured-projects",
+    "href": "research.html#current-featured-projects",
+    "title": "Junkil Park",
+    "section": "Current Featured Projects",
+    "text": "Current Featured Projects\n\n\n\n\nChargeDIFF (arxiv, 2025)\n\n\n\n\n\nInverse Design Diffusion Models Generative AI\n\n\n\n\n\n\n\nMOFFUSION (Nature Communications, 2025)\n\n\n\n\n\nInverse Design Diffusion Models Generative AI\n\n\n\n\n\n\nF-COF for K+ Ion Battery (Advanced Energy Materials, 2023)\n\n\n\n\n\nDensity Functional Theory Electronic Structure"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A generative model for inorganic materials that explicitly incorporates electronic structure information during generation.\n\n\n\nA multi-modal generative model for the design of metal-organic frameworks using signed distance functions.\n\n\n\nA diffusion-model-based framework for zeolite generation.\n\n\n\nA large-scale database of amorphous porous polymer network materials based on molecular dynamics simulations.\n\n\n\nA computational platform for designing MOFs with high hydrogen working capacity."
+  },
+  {
+    "objectID": "projects.html#chargediff",
+    "href": "projects.html#chargediff",
+    "title": "Projects",
+    "section": "",
+    "text": "A generative model for inorganic materials that explicitly incorporates electronic structure information during generation."
+  },
+  {
+    "objectID": "projects.html#moffusion",
+    "href": "projects.html#moffusion",
+    "title": "Projects",
+    "section": "",
+    "text": "A multi-modal generative model for the design of metal-organic frameworks using signed distance functions."
+  },
+  {
+    "objectID": "projects.html#zeodiff",
+    "href": "projects.html#zeodiff",
+    "title": "Projects",
+    "section": "",
+    "text": "A diffusion-model-based framework for zeolite generation."
+  },
+  {
+    "objectID": "projects.html#amorphous-ppn-database",
+    "href": "projects.html#amorphous-ppn-database",
+    "title": "Projects",
+    "section": "",
+    "text": "A large-scale database of amorphous porous polymer network materials based on molecular dynamics simulations."
+  },
+  {
+    "objectID": "projects.html#genetic-algorithm-for-mofs",
+    "href": "projects.html#genetic-algorithm-for-mofs",
+    "title": "Projects",
+    "section": "",
+    "text": "A computational platform for designing MOFs with high hydrogen working capacity."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nJunkil Park\n",
+    "section": "",
+    "text": "I work on AI for materials discovery, and inverse design."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "\nJunkil Park\n",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nArtificial Intelligence for Materials Discovery\nMaterials Inverse Design using Generative Models\nMolecular Simulation and Computational Chemistry\n\n\nExperience\n\n\n\n\n\n\n\n\nImperial College London\n\n\nPresent\n\n\n\nResearch Associate (2026.05 – )\n\n\nAdvisor: Prof. Aron Walsh\n\n\nLondon, United Kingdom\n\n\n\n\n\n\n\n\n\n\nSeoul National University\n\n\n2024–2026\n\n\n\nPostdoctoral Researcher (2024.09 – 2026.04)\n\n\nAdvisor: Prof. Yousung Jung\n\n\nSeoul, South Korea\n\n\n\n\n\n\n\n\n\n\nKorea Advanced Institute of Science and Technology\n\n\n2021–2024\n\n\n\nPhD (2021.03 – 2024.09)\n\n\nAdvisor: Prof. Jihan Kim\n\n\nDaejeon, South Korea"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "\nJunkil Park\n",
+    "section": "Links",
+    "text": "Links\n\n\nEmail: junkil0617@gmail.com\nGoogle Scholar\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Park, J.*, Lee, Y.*, and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. Nature Communications (2025).\nPark, J., Gill, A. P. S., Moosavi, S. M., and Kim, J. Inverse design of porous materials: a diffusion model approach. Journal of Materials Chemistry A (2024).\nPark, J., Lim, Y., Lee, S., and Kim, J. Computational Design of Metal-Organic Frameworks with Unprecedented High Hydrogen Working Capacity and High Synthesizability. Chemistry of Materials (2023).\nLee, J.*, Lim,H.*, Park, J.*, Kim, M., Jung, J., Kim, J., and Kim, I. Flouring-Rich Oragnic Framework to Boost Electrochemicl Kinetics and Storages of K+ Ions for Potassium-Ion Battery. Advanced Energy Materials (2023).\n\nExplore Full Publications"
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Park, J.*, Lee, Y.*, and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. Nature Communications (2025).\nPark, J., Gill, A. P. S., Moosavi, S. M., and Kim, J. Inverse design of porous materials: a diffusion model approach. Journal of Materials Chemistry A (2024).\nPark, J., Lim, Y., Lee, S., and Kim, J. Computational Design of Metal-Organic Frameworks with Unprecedented High Hydrogen Working Capacity and High Synthesizability. Chemistry of Materials (2023).\nLee, J.*, Lim,H.*, Park, J.*, Kim, M., Jung, J., Kim, J., and Kim, I. Flouring-Rich Oragnic Framework to Boost Electrochemicl Kinetics and Storages of K+ Ions for Potassium-Ion Battery. Advanced Energy Materials (2023).\n\nExplore Full Publications"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\n\nYou can download my full CV below. Thanks!\n\nDownload CV (Last revised: 2026.4)"
+  }
+]

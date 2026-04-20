@@ -1,0 +1,15 @@
+# Publications
+
+## Selected Publications
+
+1. **Park, J.\***, Lee, Y.\*, and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. **Nature Communications** (2025).
+
+2. **Park, J.**, Gill, A. P. S., Moosavi, S. M., and Kim, J. Inverse design of porous materials: a diffusion model approach. **Journal of Materials Chemistry A** (2024).
+
+3. **Park, J.**, Lim, Y., Lee, S., and Kim, J. Computational Design of Metal-Organic Frameworks with Unprecedented High Hydrogen Working Capacity and High Synthesizability. **Chemistry of Materials** (2023).
+
+4. Lee, J.\*, Lim,H.\*, **Park, J.\***, Kim, M., Jung, J., Kim, J., and Kim, I. Flouring-Rich Oragnic Framework to Boost Electrochemicl Kinetics and Storages of K+ Ions for Potassium-Ion Battery. **Advanced Energy Materials** (2023).
+
+
+
+[Explore Full Publications](full_publications.qmd){.btn .btn-outline-dark}
