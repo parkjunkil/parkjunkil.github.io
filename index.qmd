@@ -6,7 +6,7 @@
 <h1 class="hero-name">Junkil Park</h1>
 
 <div class="hero-tagline">
-I work on AI for materials discovery, and inverse design.
+AI for materials discovery and inverse design
 </div>
 </div>
 
@@ -65,11 +65,29 @@ I work on AI for materials discovery, and inverse design.
 <div class="experience-period">2021–2024</div>
 </div>
 
-<div class="experience-role">PhD (2021.03 – 2024.09)</div>
+<div class="experience-role">Ph.D. (2021.03 – 2024.09)</div>
 <div class="experience-location">Advisor: Prof. Jihan Kim</div>
 <div class="experience-location">Daejeon, South Korea</div>
 </div>
 </div>
+
+<div class="experience-card">
+<div class="experience-logo">
+<img src="assets/northwestern.png" alt="Northwestern University">
+</div>
+
+<div class="experience-content">
+<div class="experience-header">
+<div class="experience-title">Northwestern University</div>
+<div class="experience-period">2022–2023</div>
+</div>
+
+<div class="experience-role">Visiting Researcher (2022.08 – 2023.01)</div>
+<div class="experience-location">Advisor: Prof. Randall Q. Snurr</div>
+<div class="experience-location">Illinois, United States</div>
+</div>
+</div>
+
 
 
 
