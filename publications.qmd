@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-1. **Park, J.\***, Choi, J.\*, and Jung, Y. Generative modelling of inorganic materials with explicit electronic structure. **Nature Communications** (2026).
+1. **Park, J.\***, Choi, J., and Jung, Y. Generative modelling of inorganic materials with explicit electronic structure. **Nature Communications** (2026).
 
 2. **Park, J.\***, Lee, Y.\*, and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. **Nature Communications** (2025).
 
