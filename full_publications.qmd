@@ -6,11 +6,11 @@ First/Co-First author marked as *
 
 14\. Kim, S., Choi, J., Jang, K., **Park, J.**, Bernales, V., Aspuru-Guzik, A., and Jung, Y. Materealize: a multi-agent deliberation system for end-to-end material design and synthesis. (submitted)
 
-13\. **Park, J.\***, Choi, J., and Jung, Y. Learning electrons to generate materials. (submitted)
+13\. **Park, J.\***, Choi, J., and Jung, Y. Learning electrons to generate materials. Nature Communications 2026 (accepted)
 
 12\. **Park, J.\***, Lee, Y., and Kim, J. Multi-modal conditional diffusion model using signed distance functions for metal-organic framework generation. Nature Communications 2025 16:34
 
-11\. **Park, J.\***, Lee, W., and Kim, J. Large-Scale Construction and Analysis of Amorphous Porous Polymer Network Materials. ACS App. Mater. Interfaces 2024, 16, 57190-57199
+11\. **Park, J.\***, Lee, W., and Kim, J. Large-Scale Construction and Analysis of Amorphous Porous Polymer Network Materials. ACS Appl. Mater. Interfaces 2024, 16, 57190-57199
 
 10\. **Park, J.\***, Kim, H., Kang, Y., Lim, Y., and Kim, J. From Data to Discovery: Recent Trends of Machine Learning in Metal-Organic Frameworks. JACS Au 2024, 4, 3727-3743
 
